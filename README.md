@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gabriel França! 🤙
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfrancaof/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](instagram.com/gabrielfrancaof)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gabrielfrancaof)
 
 ### Tecnologias que mais utilizo no meu dia a dia
 <div style ="dusplay: inline_block">
